@@ -1,0 +1,13 @@
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\bin\Debug\netcoreapp3.1\tutorialTesting.exe
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\bin\Debug\netcoreapp3.1\tutorialTesting.deps.json
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\bin\Debug\netcoreapp3.1\tutorialTesting.runtimeconfig.json
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\bin\Debug\netcoreapp3.1\tutorialTesting.runtimeconfig.dev.json
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\bin\Debug\netcoreapp3.1\tutorialTesting.dll
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\bin\Debug\netcoreapp3.1\tutorialTesting.pdb
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.csprojAssemblyReference.cache
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.AssemblyInfoInputs.cache
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.AssemblyInfo.cs
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.csproj.CoreCompileInputs.cache
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.dll
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.pdb
+C:\Users\Victor Christensen\source\repos\tutorialTesting\tutorialTesting\obj\Debug\netcoreapp3.1\tutorialTesting.genruntimeconfig.cache
